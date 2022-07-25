@@ -2,6 +2,12 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz//MartinHei
 
 My name is Evgeny Solonov and I'm a software developer. I'm from Russia.
 
+## 🖥️ Operation systems
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=42C1BA)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=42C1BA)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=42C1BA)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=42C1BA)
