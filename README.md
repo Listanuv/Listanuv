@@ -31,8 +31,8 @@ My name is Evgeny Solonov and I'm a software developer. I'm from Russia.
 
 
 <p align="left">
-  - ⚡ Fun fact: **gods was talking on Java langunage**
 <a href="https://github.com/listanuv/listanuv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=listanuv&hide=html&langs_count=3&theme=default  " />
 </a>
+  - ⚡ Fun fact: **gods was talking on Java langunage**
 </p>
