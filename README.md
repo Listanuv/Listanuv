@@ -30,4 +30,8 @@ My name is Evgeny Solonov and I'm a software developer. I'm from Russia.
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=42C1BA)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=listanuv&hide=html&langs_count=3&theme=default
+<p align="center">
+<a href="https://github.com/listanuv/listanuv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=listanuv&hide=html&langs_count=3&theme=default  " />
+</a>
+</p>
